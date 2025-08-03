@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# Env
+.env
+*.env
+venv/
+.env/
+.lms_env/
+.lms_env
+
+# VSCode
+.vscode/
+
+# Migrations
+*/migrations/__pycache__/
+*/migrations/*.pyc
+*/migrations/*.pyo
+*/migrations/*.pyd
+
+# Pytest
+htmlcov/
+.coverage
+.cache
+
+# Mac
+.DS_Store
