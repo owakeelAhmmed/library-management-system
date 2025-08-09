@@ -18,11 +18,11 @@ staticfiles/
 *.env
 venv/
 .env/
+temp_auto_push.bat
 .lms_env/
 .lms_env
 
 # VSCode
-.vscode/
 
 # Migrations
 */migrations/__pycache__/
@@ -39,4 +39,5 @@ htmlcov/
 .DS_Store
 
 
-OwakeelAhmmed@30
+OwakeelAhmmed@30.gitignore
+branch_structure.json
