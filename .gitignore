@@ -22,7 +22,6 @@ venv/
 .lms_env
 
 # VSCode
-.vscode/
 
 # Migrations
 */migrations/__pycache__/
@@ -37,3 +36,10 @@ htmlcov/
 
 # Mac
 .DS_Store
+
+
+OwakeelAhmmed@30
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
